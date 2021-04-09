@@ -2,10 +2,10 @@
 2019-1 CAUCSE Data-Structure
 
 ## Project_1 : Maze
-1. 출구(EXIT) 대신 임의의 위치(row, col)를 목적지(destination)로 지정하여 입구에서 목적지까지의 path를 찾는다.
-2. mark[][] 배열을 사용하지 않는다.
-3. 어떤 위치로 처음 갔을 때 8 방향 이웃 위치 중에 목적지가 있으면 path 찾기가 종료되도록 한다.
-4. path 찾기를 위해 이동할 방향의 결정은 매번 random하게 한다.
+> 1. 출구(EXIT) 대신 임의의 위치(row, col)를 목적지(destination)로 지정하여 입구에서 목적지까지의 path를 찾는다.
+> 2. mark[][] 배열을 사용하지 않는다.
+> 3. 어떤 위치로 처음 갔을 때 8 방향 이웃 위치 중에 목적지가 있으면 path 찾기가 종료되도록 한다.
+> 4. path 찾기를 위해 이동할 방향의 결정은 매번 random하게 한다.
 
 ## Project_2 : Binary Tree
 > 정수값을 element로 하는 행렬이 2차원 배열에 저장되어 주어졌다고 하자. binary search tree를 이용하여 행렬의 각 row 별로 정수값의 빈도를 count한 후, loser tree를 이용하여 행렬 전체적으로 빈도가(즉, count가) 가장 높은 정수값부터 내림순으로 정렬하여 출력하는 프로그램을 작성하시오.  

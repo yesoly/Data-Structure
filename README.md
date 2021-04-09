@@ -9,8 +9,8 @@
 
 ## Project_2 : Binary Tree
 > 정수값을 element로 하는 행렬이 2차원 배열에 저장되어 주어졌다고 하자. binary search tree를 이용하여 행렬의 각 row 별로 정수값의 빈도를 count한 후, loser tree를 이용하여 행렬 전체적으로 빈도가(즉, count가) 가장 높은 정수값부터 내림순으로 정렬하여 출력하는 프로그램을 작성하시오.  
-
-`요건`
+  
+**요건**
 1. 각 row 당 1개의 binary search tree를 생성.
 2. 각 binary search tree는 linked representation으로 구현.
 3. 각 row 별로 column 번호 증가 순으로 정수값을 하나씩 차례로 해당 binary search tree에 반영.
